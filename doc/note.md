@@ -1,7 +1,7 @@
-# Adpative Replacement Cache (ARC)
+# Adaptive Replacement Cache (ARC)
 
 ## 前言
-最近参与了组内的缓存设计讨论，最后他们选用了Adpative Replacement Cache (ARC)作为缓存的淘汰算法。虽然轮不到我这种菜鸟实现设计，但出于好奇，还是把这篇2003年的IBM文章读了，并在此记录一下笔记。论文题目是《ARC: A Self-Tuning, Low Overhead Replacement Cache》，[论文地址](https://www.usenix.org/conference/fast-03/arc-self-tuning-low-overhead-replacement-cache)。
+最近参与了组内的缓存设计讨论，最后他们选用了Adaptive Replacement Cache (ARC)作为缓存的淘汰算法。虽然轮不到我这种菜鸟实现设计，但出于好奇，还是把这篇2003年的IBM文章读了，并在此记录一下笔记。论文题目是《ARC: A Self-Tuning, Low Overhead Replacement Cache》，[论文地址](https://www.usenix.org/conference/fast-03/arc-self-tuning-low-overhead-replacement-cache)。
 
 ## 导读
 
