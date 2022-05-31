@@ -15,6 +15,7 @@ Output the hit rate of ARC and LRU cache algorithm.
 
 ## Tests
 Run tests of all traces. The result is written on output.txt, and the result is same to the paper.
+
 ``make test``
 
 ## Reference resources
