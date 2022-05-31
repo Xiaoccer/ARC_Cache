@@ -1,6 +1,6 @@
 # the C++ implement of Adaptive Replacement Cache (ARC) Algorithm
 
-the C++ implement of ARC cache replacement algorithm, refer to the [paper].(https://www.usenix.org/conference/fast-03/arc-self-tuning-low-overhead-replacement-cache)
+the C++ implement of ARC cache replacement algorithm, refer to the [paper](https://www.usenix.org/conference/fast-03/arc-self-tuning-low-overhead-replacement-cache).
 
 ## Build
 ``make``
