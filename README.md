@@ -18,6 +18,9 @@ Run tests of all traces. The result is written on output.txt, and the result is 
 
 ``make test``
 
+## Notes
+* [知乎专栏](https://zhuanlan.zhihu.com/p/522306900)
+
 ## Reference resources
 * [caching](https://github.com/djblue/caching)
 * [IBM Resarch](https://researcher.watson.ibm.com/researcher/view_person_subpage.php?id=4700)
